@@ -11,28 +11,25 @@
 		
 		"declaringWar": "Да будет война!",
 		"attacked": "Да будет война!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"defeated": "Чтож, печально... лишь волею случая поверг ты нас...",
+		"introduction": "ъъъ",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Здравствуй!",
+		"neutralLetsHearIt":"Гытьъ",
+		"neutralNo": ["Пожалуй, мы откажемся", "Ммм... нет."],
+		"neutralYes": ["Звучит заманчиво..", " Мы согласны"],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "Чего ты хочешь? Лучше проваливай",
+		"hateLetsHearIt": "ььььььъ",
+		"hateNo": ["Нет.","Ни в коем разе!"],
+		"hateYes": ["Ъ.. Ладно","Хм.. возможно"],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Чтож, нам нужен перерыв.",
+		"tradeRequest": "Смотри, какое выгодное предложение! ",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [50, 205, 50],
+		"innerColor": [0,100,0],
+		"unique": "BIB",
+		"cities": ["Великий Ъуь"," Ъеь", "Ъыь", " Ъаь", "Ъяь", "Ъиь", "Ъюь", " Ъй", "Ьий"]
 	}
 ]
